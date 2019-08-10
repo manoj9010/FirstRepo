@@ -1,4 +1,4 @@
-public class Demo {
+public class natural {
 
     public static void main(String[] args) {
 
